@@ -1,0 +1,6 @@
+the: 1
+day9: 1
+session: 1
+of: 1
+its: 1
+training: 1
